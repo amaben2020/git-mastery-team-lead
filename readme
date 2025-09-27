@@ -2,7 +2,6 @@ I just created this in main and staging, yeah, ok
 
 cherrypick this commit 
 
-<<<<<<< HEAD
 All devs must work from develop before staging
 
 develop added with cicd
@@ -12,8 +11,6 @@ freak has added code with loud mouth everywhere
 freak reaches out that i have worked off staging 
 
 Login branch created
-=======
 Login branch created
 Auth working
 I'm almost done and freak sends me slack message
->>>>>>> f0b34f7 (auth-2)
