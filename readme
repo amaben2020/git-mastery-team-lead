@@ -1,31 +1,7 @@
-I just created this in main and staging, yeah, ok
+develop → for staging-ready merges
 
- 
-cherrypick this commit 
+release/vX.X.X → for QA-ready snapshots
 
-All devs must work from develop before staging
+master → for production
 
-develop added with cicd
-
-freak has added code with loud mouth everywhere
-
- 
-freak reaches out that i have worked off staging 
- 
-freak reaches out that i have worked off staging 
-
-Login branch created
-Login branch created
-Auth working
-I'm almost done and freak sends me slack message
-
-
-i pushed this fix here, so use it in feat-login 
- 
-cherrypick this commit 
-dont cherrypick this commit 
- 
-
-hot fix 1
-
-hot fix 2
+short-lived feature/, bug/, and hotfix/ branches
